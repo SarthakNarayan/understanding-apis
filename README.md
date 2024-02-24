@@ -66,3 +66,9 @@
 - https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
 - https://medium.com/@bubu.tripathy/best-practices-for-designing-rest-apis-5b1809545e3c
 - https://www.baeldung.com/postman-form-data-raw-x-www-form-urlencoded
+
+## Links for mocking api requests
+
+- https://beeceptor.com/
+- https://httpbin.org/
+- https://jsonplaceholder.typicode.com/
